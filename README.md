@@ -1,5 +1,5 @@
-# Credit-Risk-Modelling
-💳 Credit Risk Modelling
+
+# 💳 Credit Risk Modelling
 ## A Machine Learning project to predict the probability of loan default using statistical techniques and advanced ML models.
 This project focuses on risk quantification, feature engineering, and model interpretability, similar to real-world banking systems.
 
