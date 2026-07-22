@@ -58,7 +58,10 @@ WOE-IV helped in selecting highly predictive variables
 XGBoost outperformed Logistic Regression in accuracy
 Logistic Regression provided better interpretability for risk scoring
 ## 💡 Business Impact
-Helps banks reduce default risk
-Enables data-driven loan approval decisions
-Improves credit scoring systems
+Helps banks reduce default risk,
+
+Enables data-driven loan approval decisions,
+
+Improves credit scoring systems,
+
 Supports regulatory-compliant risk modelling
