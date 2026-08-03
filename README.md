@@ -37,8 +37,7 @@ XGBoost (Advanced boosting model)
 ## 📏 Evaluation Metrics
 
 ROC-AUC
-KS Statistic
-Gini Coefficient
+
 ## 🏗️ Tech Stack
 Languages: Python
 Libraries:
