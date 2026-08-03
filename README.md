@@ -33,6 +33,7 @@ Variance Inflation Factor (VIF) for multicollinearity
 ## 🤖 Models Used
 
 Logistic Regression (Baseline, interpretable)
+
 XGBoost (Advanced boosting model)
 ## 📏 Evaluation Metrics
 
@@ -51,9 +52,7 @@ Metric	Purpose,
 
 ROC-AUC	Model discrimination ability,
 
-KS Statistic	Separation of good vs bad loans,
 
-Gini Score	Predictive power of model.
 ## 📈 Key Insights
 Feature engineering significantly improved model performance,
 
